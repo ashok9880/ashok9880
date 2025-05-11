@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate and detail-oriented web developer with 2 years of experience in creating dynamic and user-friendly<br>web applications. Proficient in HTML, CSS, Javascript, and vue js and in working with cross-functional teams to ensure timely<br>delivery of high-quality projects. Committed to continuous learning and staying up-to-date with industry trends to provide<br>innovative solutions.</p>
+<p align="left">Passionate and detail-oriented Web Developer with 2 years of experience in building dynamic, user-friendly web applications. Proficient in HTML, CSS, JavaScript, and Vue.js, with a track record of collaborating effectively with cross-functional teams to deliver high-quality projects on time. Committed to continuous learning and staying up to date with modern web technologies to deliver innovative, scalable solutions.</p>
 
 ###
 
